@@ -1,8 +1,8 @@
 # Header
 menu:
   主页: /
-  文章: /archives
-  相册: /about
+  文章: /articles
+  相册: /photos
 rss: /atom.xml
 github: https://github.com/myname
 logo_title: 
