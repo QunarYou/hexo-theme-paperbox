@@ -1,8 +1,10 @@
 # Header
 menu:
-  主页: /
-  文章: /articles
-  相册: /photos
+  home: /
+  文章: /articles/ || newspaper
+  相册: /photos/ || images
+  标签: /tags/ || tags
+
 rss: /atom.xml
 github: https://github.com/myname
 logo_title: 
